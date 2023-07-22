@@ -1,15 +1,18 @@
-title: 
+title: Peperg
 description: 
 image: https://ipfs.io/ipfs/
 mintAddresses:
-  - 
+  - 9iEZzESei5FsXKCSiKMHVnwtDW6EaUsKRYEQWrQaSb7r5iY52EC
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/PepeErgo
     icon: fa-brands fa-twitter fa-fw
   - label: Discord
-    url: https://discord.com/invite/
+    url: http://discord.gg/n5PYZam6F
     icon: fa-brands fa-discord fa-fw
+  - label: Telegram
+    url: https://t.me/PEPE
+    icon: fa-brands fa-telegram fa-fw
   - label: Website
-    url: 
+    url: https://t.co/UqzpkYWduc
     icon: fa-solid fa-globe fa-fw
