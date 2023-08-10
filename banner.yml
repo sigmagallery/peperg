@@ -1,6 +1,7 @@
 title: Peperg
 description: Meet Peperg - Pepe meets the Ergo universe, a bluechip memecoin for the discerning crypto enthusiast.
-image: https://img2.sigma.gallery/peperg/peperg/9de1e6b6f2d3417d58c389d1f060e626f6b29dc808af087916e030d02e437175.webp
+banner: https://raw.githubusercontent.com/sigmagallery/peperg/main/banner.webp
+pfp: https://img2.sigma.gallery/peperg/peperg/9de1e6b6f2d3417d58c389d1f060e626f6b29dc808af087916e030d02e437175.webp
 mintAddresses:
   - 9iEZzESei5FsXKCSiKMHVnwtDW6EaUsKRYEQWrQaSb7r5iY52EC
 bannerLinks:
